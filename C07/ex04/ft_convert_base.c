@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_convert_base.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imiqor <imiqor@student.42.fr>              +#+  +:+       +#+        */
+/*   By: salhali <salhali@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/15 14:25:13 by imiqor            #+#    #+#             */
 /*   Updated: 2024/07/15 14:25:14 by imiqor           ###   ########.fr       */
