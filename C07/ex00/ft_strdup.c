@@ -39,7 +39,7 @@ char	*ft_strdup(char *src)
 /*
 int	main(void)
 {
-	char array[] = "imane";
+	char array[] = "salaheddine";
 	printf("%s", ft_strdup(array));
 	return (0);
 }
