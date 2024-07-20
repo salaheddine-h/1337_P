@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strdup.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: imiqor <imiqor@student.42.fr>              +#+  +:+       +#+        */
+/*   By: salhali <salhali@student.42.fr>             +#+  +:+      +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/13 10:24:36 by imiqor            #+#    #+#             */
 /*   Updated: 2024/07/14 20:52:20 by imiqor           ###   ########.fr       */
